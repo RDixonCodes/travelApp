@@ -25,7 +25,7 @@ const Header = ({ setCoordinates }) => {
         <AppBar position="static">
             <Toolbar className={classes.toolbar}>
                 <Typography varient="h5" className={classes.title1}>
-                    Trip-O-Visor
+                    Trip Buddy
                 </Typography>
                 <Box display="flex">
                     <Typography varient="h6" className={classes.title2}>
