@@ -7,8 +7,8 @@ export default makeStyles((theme) => ({
     [theme.breakpoints.up('sm')]: {
       display: 'block',
     },
-    fontWeight: 'bold',
-    fontSize: 18,
+    fontSize: 25,
+    fontWeight: 500,
   },
   title2: {
     display: 'none',
