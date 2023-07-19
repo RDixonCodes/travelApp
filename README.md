@@ -1,6 +1,6 @@
 TRIP BUDDY
 
 
-<img width="1382" alt="travelApp" src="https://github.com/RDixonCodes/travelApp/assets/73620531/beb71437-05b7-4251-a5c0-461e6d0a52d5">
+<img width="1382" alt="Screen Shot 2023-07-18 at 9 36 41 PM" src="https://github.com/RDixonCodes/travelApp/assets/73620531/b33cf35a-f3ce-4913-9251-bc7e755dce02">
 
 https://resilient-kelpie-3757f7.netlify.app/
