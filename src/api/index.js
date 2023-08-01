@@ -17,8 +17,11 @@ export const getPlacesData = async (type, sw, ne) => {
           });
 
         return data;
-    }   catch (error) {
+    }   catch (error) { 
         console.log(error)
     }
 }
 
+
+// http://maps.weatherbit.io/v2.0/{source}/{field}/{time}/{z}/{x}/{y}.png
+// http://maps.weatherbit.io/img/w/${data.weather[0].icon}.png
