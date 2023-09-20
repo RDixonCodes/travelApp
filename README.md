@@ -1,4 +1,5 @@
 TRIP BUDDY
+
 A single page comprehensive travel platform that allows users to find restaurants, hotels and attractions for popular destinations around the world.
 - Built using React, Google Maps and Materials-UI
 - Google Maps integration used as a search tool that allows you to geolocate a specific point and find the nearest places of interest
